@@ -1,6 +1,6 @@
 # For a description of these parameters, please visit the theme wiki.
 # https://github.com/pacollins/hugo-future-imperfect-slim/wiki/config.toml
-baseurl                 = "drvan.github.io"
+baseurl                 = "https://drvan.dev/"
 DefaultContentLanguage  = "en"
 title                   = "Ryan Van Antwerp"
 theme                   = "hugo-future-imperfect-slim"
